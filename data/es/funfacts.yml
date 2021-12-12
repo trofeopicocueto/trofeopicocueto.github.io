@@ -1,0 +1,25 @@
+################################# funfacts ##################################
+funfacts:
+  enable : true
+  bg_image : "images/backgrounds/bg-picocueto.jpg"
+  bg_image_webp : "images/backgrounds/bg-picocueto.webp"
+  counter_item:
+    # counter item loop
+    - title : "Runners"
+      icon : "ti-face-smile" # themify icon pack : https://themify.me/themify-icons
+      count : "1020"
+    
+    # counter item loop
+    - title : "Kiwis"
+      icon : "ti-gift" # themify icon pack : https://themify.me/themify-icons
+      count : "2030"
+    
+    # counter item loop
+    - title : "Teams"
+      icon : "ti-magnet" # themify icon pack : https://themify.me/themify-icons
+      count : "158"
+    
+    # counter item loop
+    - title : "Willies"
+      icon : "ti-map" # themify icon pack : https://themify.me/themify-icons
+      count : "1"

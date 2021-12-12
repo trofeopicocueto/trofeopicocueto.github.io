@@ -1,0 +1,11 @@
+############################# call to action ##############################
+cta:
+  enable : true
+  bg_image : "images/backgrounds/bg-picocueto.jpg"
+  bg_image_webp : "images/backgrounds/bg-picocueto.webp"
+  title : "Sign up now"
+  content : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis tenetur odio impedit incidunt? Omnis accusantium ea reiciendis, fugit commodi nostrum."
+  button:
+    enable : true
+    label : "Register your team now"
+    link : "#contact"

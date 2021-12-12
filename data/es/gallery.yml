@@ -1,0 +1,110 @@
+#################################### portfolio ###############################
+portfolio:
+  enable : true
+  title : Previously on Pico Cueto...
+  portfolio_item :
+    # gallery item loop
+    - name : Relay blablabla 2021
+      image : images/gallery/relay01.png
+      categories : ["relay"]
+      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
+      link : "https://www.flickr.com/photos/140255902@N06/"
+      
+    # gallery item loop
+    - name : Relay blablabla 2021
+      image : images/gallery/relay02.png
+      categories : ["relay"]
+      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
+      link : ""
+      
+    # gallery item loop
+    - name : Relay blablabla 2021
+      image : images/gallery/relay03.png
+      categories : ["relay"]
+      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
+      link : "#"
+
+    # gallery item loop
+    - name : Relay blablabla 2021
+      image : images/gallery/relay04.png
+      categories : ["relay", "winners"]
+      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
+      link : "#"
+
+    # gallery item loop
+    - name : Relay blablabla 2021
+      image : images/gallery/relay05.png
+      categories : ["relay", "winners"]
+      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
+      link : "#"
+
+    # gallery item loop
+    - name : Downhill blablabla 2021
+      image : images/gallery/bajada01.png
+      categories : ["downhill"]
+      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
+      link : "#"
+
+    # gallery item loop
+    - name : Downhill blablabla 2021
+      image : images/gallery/bajada02.png
+      categories : ["downhill"]
+      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
+      link : "#"
+
+    # gallery item loop
+    - name : Alex Montes, first relay Piloña 2021
+      image : images/gallery/bajada03.png
+      categories : ["downhill", "winners"]
+      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
+      link : "#"
+
+    # gallery item loop
+    - name : Pravia Start 2021
+      image : images/gallery/meta01.png
+      categories : ["public"]
+      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
+      link : "#"
+
+    # gallery item loop
+    - name : Pravia Start 2021
+      image : images/gallery/meta02.png
+      categories : ["public"]
+      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
+      link : "#"
+
+    # gallery item loop
+    - name : Winners Women 2021
+      image : images/gallery/podio01.png
+      categories : ["winners"]
+      content : Names of the winners.....
+      link : "#"
+
+    # gallery item loop
+    - name : Winners Men 2021
+      image : images/gallery/podio02.png
+      categories : ["winners"]
+      content : Names of the winners.....
+      link : "#"
+
+    # gallery item loop
+    - name : Public 2021
+      image : images/gallery/publico01.png
+      categories : ["public"]
+      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
+      link : "#"
+
+    # gallery item loop
+    - name : Public 2021
+      image : images/gallery/publico02.png
+      categories : ["public"]
+      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
+      link : "#"
+
+    # gallery item loop
+    - name : Public 2021
+      image : images/gallery/publico03.png
+      categories : ["public"]
+      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
+      link : "#"
+

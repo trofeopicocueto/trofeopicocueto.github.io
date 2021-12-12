@@ -1,0 +1,26 @@
+################################# Profile ##################################
+skill:
+  enable : true
+  title : Race Profile
+  subtitle : The race is a 6km loop with +500m
+  content : Lorem, ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis magni explicabo cum aperiam recusandae sunt accusamus totam. Quidem quos fugiat sapiente numquam accusamus quas hic, itaque in libero reiciendis tempora!
+  image : images/about/profile.webp
+  skill_item :
+    # skill item loop
+    - name :  Mud
+      percent : 90%
+      
+    # skill item loop
+    - name : Pavement
+      percent : 70%
+      
+    # skill item loop
+    - name :  Trails
+      percent : 80%
+      
+    - name :  Willy's Risk
+      percent : 95%
+      
+    # skill item loop
+    - name :  Fun
+      percent : 100%

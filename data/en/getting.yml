@@ -1,0 +1,16 @@
+############################# About ###################################
+getting:
+  enable : true
+  title : Getting There
+  getting_item :
+  - icon : ti-car # themify icon pack : https://themify.me/themify-icons
+    title : By Air
+    content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
+
+  - icon : ti-cup # themify icon pack : https://themify.me/themify-icons
+    title : By Road
+    content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
+
+  - icon : ti-location-arrow # themify icon pack : https://themify.me/themify-icons
+    title : Hotels and Restaurants
+    content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
