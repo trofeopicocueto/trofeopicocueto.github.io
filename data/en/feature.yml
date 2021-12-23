@@ -4,24 +4,24 @@ feature:
   image : images/about/picocuetorelevo.jpg
   image_webp : images/about/picocuetorelevo.webp
   title : Teams of 3
-  content : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam tempora itaque, autem dolores culpa cum mollitia voluptate nesciunt voluptatibus quasi."
+  content : The race is contested by teams of 3 runners. Each reliever of the team complete a lap (6 kms) of the course.
   feature_item : 
       # feature item loop
-    - title : Select two runners
-      icon : ti-quote-right # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+    - title : Select your winning team
+      icon : ti-hand-point-right # themify icon pack : https://themify.me/themify-icons
+      content : 3 runners in a fast relay trail-cross in the Northern forests of Spain.
       
       # feature item loop
     - title : Woman or men
-      icon : ti-android # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+      icon : ti-user  # themify icon pack : https://themify.me/themify-icons
+      content : Teams can be 3 men, 3 women or mixed teams.
 
       # feature item loop
-    - title : Wear spikes
+    - title : Choose your running shoes
       icon : ti-stats-up # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+      content : It is a short and fast trail circuit, where grip is important but also speed.
       
       # feature item loop
     - title : Enjoy
-      icon : ti-announcement # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+      icon : ti-face-smile # themify icon pack : https://themify.me/themify-icons
+      content : Feel this thrilling experience with your team in Spain and enjoy a unique relay race in our amazing landscape.

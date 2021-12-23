@@ -1,110 +1,110 @@
 #################################### portfolio ###############################
 portfolio:
   enable : true
-  title : Previously on Pico Cueto...
+  title : En otras ediciones...
   portfolio_item :
     # gallery item loop
-    - name : Relay blablabla 2021
+    - name : Relevo del Piloña Deporte
       image : images/gallery/relay01.png
-      categories : ["relay"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
+      categories : ["relevo", "ganadores"]
+      content : Foto JonasPravia
       link : "https://www.flickr.com/photos/140255902@N06/"
       
     # gallery item loop
-    - name : Relay blablabla 2021
-      image : images/gallery/relay02.png
-      categories : ["relay"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
+    - name : Relevo mixto edición 2021
+      image : images/gallery/relay022.png
+      categories : ["relevo"]
+      content : Foto JonasPravia
       link : ""
       
     # gallery item loop
-    - name : Relay blablabla 2021
-      image : images/gallery/relay03.png
-      categories : ["relay"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
+    - name : Relevo del Club Atletismo Pravia
+      image : images/gallery/relay033.png
+      categories : ["relevo"]
+      content : Foto JonasPravia
       link : "#"
 
     # gallery item loop
-    - name : Relay blablabla 2021
-      image : images/gallery/relay04.png
-      categories : ["relay", "winners"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
+    - name : Segundo Relevo de Marcos
+      image : images/gallery/relay04.jpg
+      categories : ["relevo", "ganadores"]
+      content : Foto JonasPravia
       link : "#"
 
     # gallery item loop
-    - name : Relay blablabla 2021
-      image : images/gallery/relay05.png
-      categories : ["relay", "winners"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
+    - name : Ganador de la última edición 2021. Equipo Piloña deporte
+      image : images/gallery/ganador01.jpg
+      categories : ["ganadores"]
+      content : Foto JonasPravia
       link : "#"
 
     # gallery item loop
-    - name : Downhill blablabla 2021
+    - name : Ganador de la Primera Edición 2018. Equipo Runmarc
+      image : images/gallery/ganador02.jpg
+      categories : ["ganadores"]
+      content : Foto JonasPravia
+      link : "#"
+
+    # gallery item loop
+    - name : Bajada del cueto del Piloña Deporte
+      image : images/gallery/ganador03.png
+      categories : ["ganadores", "bajada"]
+      content : Foto JonasPravia
+      link : "#"
+
+    # gallery item loop
+    - name : Bajada del Cueto. Equipo Horizonte
       image : images/gallery/bajada01.png
-      categories : ["downhill"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
+      categories : ["bajada"]
+      content : Foto JonasPravia
       link : "#"
 
     # gallery item loop
-    - name : Downhill blablabla 2021
+    - name : Bajada de Guille, Club Atletismo Pravia
       image : images/gallery/bajada02.png
-      categories : ["downhill"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
+      categories : ["bajada"]
+      content : Foto JonasPravia
       link : "#"
 
     # gallery item loop
-    - name : Alex Montes, first relay Piloña 2021
-      image : images/gallery/bajada03.png
-      categories : ["downhill", "winners"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
+    - name : Johana, Bajada del Cueto
+      image : images/gallery/bajada03.jpg
+      categories : ["bajada"]
+      content : Foto JonasPravia
       link : "#"
 
     # gallery item loop
-    - name : Pravia Start 2021
-      image : images/gallery/meta01.png
-      categories : ["public"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
-      link : "#"
-
-    # gallery item loop
-    - name : Pravia Start 2021
-      image : images/gallery/meta02.png
-      categories : ["public"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
-      link : "#"
-
-    # gallery item loop
-    - name : Winners Women 2021
-      image : images/gallery/podio01.png
-      categories : ["winners"]
-      content : Names of the winners.....
-      link : "#"
-
-    # gallery item loop
-    - name : Winners Men 2021
-      image : images/gallery/podio02.png
-      categories : ["winners"]
-      content : Names of the winners.....
-      link : "#"
-
-    # gallery item loop
-    - name : Public 2021
+    - name : Equipo de Pepe, José y Guille del Club atletismo Pravia
       image : images/gallery/publico01.png
-      categories : ["public"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
+      categories : ["meta"]
+      content : Foto JonasPravia
       link : "#"
 
     # gallery item loop
-    - name : Public 2021
+    - name : Nacho, el director de la carrera
       image : images/gallery/publico02.png
-      categories : ["public"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
+      categories : ["meta"]
+      content : Foto JonasPravia
       link : "#"
 
     # gallery item loop
-    - name : Public 2021
-      image : images/gallery/publico03.png
-      categories : ["public"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
+    - name : Abrazo de equipo
+      image : images/gallery/publico03.jpg
+      categories : ["meta"]
+      content : Foto JonasPravia
+      link : "#"
+
+    # gallery item loop
+    - name : Salida de la carrera
+      image : images/gallery/publico04.png
+      categories : ["meta"]
+      content : Foto JonasPravia
+      link : "#"
+
+    # gallery item loop
+    - name : Compañerismo 
+      image : images/gallery/publico06.jpg
+      categories : ["meta", "ganadores"]
+      content : Foto JonasPravia
       link : "#"
 

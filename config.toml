@@ -1,6 +1,6 @@
 ################################# Default configuration ###################
-baseURL = "https://examplesite.com"
-title = "Trofeo Pico Cueto"
+baseURL = "https://trofeopicocueto.com"
+title = "Trofeo Pico Cueto 2022"
 theme = "pico-cueto-theme"
 # post pagination
 paginate = "6"
@@ -105,6 +105,11 @@ url = "#getting"
 weight = 5
 
 [[Languages.es.menu.main]]
+name = "galería"
+url = "#gallery"
+weight = 6
+
+[[Languages.es.menu.main]]
 name = "contacto"
 url = "#contact"
 weight = 7
@@ -127,7 +132,7 @@ logo = "images/logo.png"
 description = "Trofeo Pico Cueto, relay trail-cross in Asturias, Spain"
 author = "PBest"
 # Google Analytics
-google_analytics_id = "" # Your ID
+google_analytics_id = "G-HQN6HRMPYB" # Your ID
 # post share
 post_share = true
 
@@ -143,36 +148,26 @@ expire_days = 2
 
 # google map
 [params.map]
-enable = false
-gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyBu5nZKbeK-WHQ70oqOWo-_4VmwOwKP9YQ"
-map_latitude = "51.5223477"
-map_longitude = "-0.1622023"
+enable = true
+gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyBpAeYB-TDhQ4m9TRoN__5Fc93LI0jaIiI"
+map_latitude = "43.49002454627791"
+map_longitude = "-6.11355836350233"
 map_marker = "images/marker.png"
 
 ############################# social icons ##########################
 [[params.social]]
 icon = "ti-facebook" # themify icon pack : https://themify.me/themify-icons
-link = "#"
+link = "https://www.facebook.com/PicoCuetoRelevos/"
+
 
 [[params.social]]
-icon = "ti-twitter-alt" # themify icon pack : https://themify.me/themify-icons
-link = "#"
+icon = "ti-instagram" # themify icon pack : https://themify.me/themify-icons
+link = "https://www.instagram.com/trofeopicocueto/"
+
 
 [[params.social]]
 icon = "ti-youtube" # themify icon pack : https://themify.me/themify-icons
-link = "#"
-
-[[params.social]]
-icon = "ti-linkedin" # themify icon pack : https://themify.me/themify-icons
-link = "#"
-
-[[params.social]]
-icon = "ti-dribbble" # themify icon pack : https://themify.me/themify-icons
-link = "#"
-
-[[params.social]]
-icon = "ti-pinterest" # themify icon pack : https://themify.me/themify-icons
-link = "#"
+link = "https://www.youtube.com/channel/UCjmCUfdFbrYZA5OI4e47pxg"
 
 
 ################################ English Language ########################

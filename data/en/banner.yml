@@ -1,12 +1,13 @@
 ############################### Banner ################################
 banner:
   enable : true
-  bg_image_webp : "images/backgrounds/hero-area.webp"
-  bg_image : "images/backgrounds/hero-area.jpg"
+  bg_image_webp : "images/portadaprueba2.png"
+  bg_image : "images/backgrounds/portadaprueba2.png"
   icon : "" # themify icon pack : https://themify.me/themify-icons
   title : "Trofeo Pico Cueto 2022"
-  content : "Thrilling relay trail-cross in the Northern forests of Spain (Oct 2022)"
+  content : "Thrilling relay trail-cross in the Northern forests of Spain.
+  Sunday 23 Oct 2022 in Pravia, Asturias "
   button:
     enable : true
-    label : "Sign up now!"
-    link : "#sign-up"
+    label : "Sign Up!"
+    link : "#signup"

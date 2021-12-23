@@ -5,30 +5,30 @@ service:
   service_item :
     # service item loop
     - name : Dates
-      icon : ti-notepad # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+      icon : ti-calendar # themify icon pack : https://themify.me/themify-icons
+      content : Sunday 23 Oct 2022 - 11:00 am. The race is organized by the Pravia Athletics Club. 6k relays race starting at 11.00am in Pravia, Asturias, Spain. Competition numbers are given the same day in the start line from 09:00 am. Read all the [rules](./blog/rules/).
       
     # service item loop
-    - name : Prizes
-      icon : ti-medall # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+    - name : The course
+      icon : ti-direction-alt # themify icon pack : https://themify.me/themify-icons
+      content : The Pico Cueto Trophy is a mountain relay race where [teams of 3 runners](#feature) participate. Each runner of the team will complete the same circuit of 6 kilometers in the Northern forests of Spain. See all the information about the [profile](#profile).
       
     # service item loop
-    - name : Course
-      icon : ti-direction # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+    - name : Relay
+      icon : ti-hand-drag # themify icon pack : https://themify.me/themify-icons
+      content : This is the most exciting part of the competition. The next runner in the team must be relieved by high-fiving in the area we specially set up for it. In this special place the crowd is always waiting to cheer on the runners.
       
     # service item loop
     - name : Runner Zone
-      icon : ti-info # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+      icon : ti-spray # themify icon pack : https://themify.me/themify-icons
+      content : The collection of numbers, start, relay area and finish line are at the same point, in the Sabino Moutas Park in Pravia. We have shower services in the sports center. Along the race, and also at the finish line, runners will be offered liquid and solid provisioning.
       
     # service item loop
-    - name : Categories
+    - name : Prizes
       icon : ti-cup # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+      content : Cash prizes for the top 5 men's and women's teams. Very special award for the fastest runner in the uphill sector that will have been delimited. The local runners will also have their reward, with cash prizes. Check the complete [rules](./blog/rules/).
       
     # service item loop
-    - name : Lunch at Burgi
-      icon : ti-pulse # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+    - name : History
+      icon : ti-bookmark-alt  # themify icon pack : https://themify.me/themify-icons
+      content : Nacho wanted to organize a unique race in Spain, in an extraordinary landscape and that would preserve the essence of its reference competition, the Vanoni Trophy, a competition with more than 60 years of history celebrated in Morbegno, Italy.

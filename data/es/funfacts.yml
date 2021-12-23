@@ -6,20 +6,20 @@ funfacts:
   counter_item:
     # counter item loop
     - title : "Runners"
+      icon : "ti-reddit" # themify icon pack : https://themify.me/themify-icons
+      count : "550"
+    
+    # counter item loop
+    - title : "Equipos"
+      icon : "ti-crown" # themify icon pack : https://themify.me/themify-icons
+      count : "168"
+    
+    # counter item loop
+    - title : "Diversión"
       icon : "ti-face-smile" # themify icon pack : https://themify.me/themify-icons
-      count : "1020"
+      count : "1000"
     
     # counter item loop
-    - title : "Kiwis"
-      icon : "ti-gift" # themify icon pack : https://themify.me/themify-icons
-      count : "2030"
-    
-    # counter item loop
-    - title : "Teams"
-      icon : "ti-magnet" # themify icon pack : https://themify.me/themify-icons
-      count : "158"
-    
-    # counter item loop
-    - title : "Willies"
-      icon : "ti-map" # themify icon pack : https://themify.me/themify-icons
+    - title : "Willy"
+      icon : "ti-star" # themify icon pack : https://themify.me/themify-icons
       count : "1"

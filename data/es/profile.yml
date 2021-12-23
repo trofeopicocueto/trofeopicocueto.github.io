@@ -1,26 +1,26 @@
 ################################# Profile ##################################
 skill:
   enable : true
-  title : Race Profile
-  subtitle : The race is a 6km loop with +500m
-  content : Lorem, ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis magni explicabo cum aperiam recusandae sunt accusamus totam. Quidem quos fugiat sapiente numquam accusamus quas hic, itaque in libero reiciendis tempora!
-  image : images/about/profile.webp
+  title : Perfil de la prueba
+  subtitle : Trail cross por relevos de 6 kilómetros con desnivel de +250m
+  content : Cada relevista completará un mismo circuito de trail rápido de 6 kilómetros, 250 metros de desnivel positivo y con salida y llegada en el mismo punto. El recorrido se compone de 1,5 kilómetros rápidos de asfalto y los restantes 4,5 kilómetros discurren por pistas y senderos de montaña del bosque Praviano.
+  image : images/about/2imagenperfil.webp
   skill_item :
     # skill item loop
-    - name :  Mud
-      percent : 90%
-      
-    # skill item loop
-    - name : Pavement
-      percent : 70%
-      
-    # skill item loop
-    - name :  Trails
+    - name :  Pista de montaña 80%
       percent : 80%
       
-    - name :  Willy's Risk
-      percent : 95%
+    # skill item loop
+    - name : Asfalto 20%
+      percent : 15%
       
     # skill item loop
-    - name :  Fun
+    - name :  Barro 50%
+      percent : 50%
+      
+    - name :  Cuidado en la cuesta de Willy 
+      percent : 100%
+      
+    # skill item loop
+    - name :  Diversión asegurada 100%
       percent : 100%

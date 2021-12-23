@@ -3,14 +3,14 @@ getting:
   enable : true
   title : Getting There
   getting_item :
-  - icon : ti-car # themify icon pack : https://themify.me/themify-icons
+  - icon : ti-rocket # themify icon pack : https://themify.me/themify-icons
     title : By Air
-    content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
+    content : Pravia is only 10 minutes (13 kms) from Asturias airport. The airport has a direct flight from Paris. There are also several daily flights to Asturias from Madrid and Barcelona. You can also get there by plane from many other cities in Spain.
 
-  - icon : ti-cup # themify icon pack : https://themify.me/themify-icons
+  - icon : ti-car # themify icon pack : https://themify.me/themify-icons
     title : By Road
-    content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
+    content : If you are coming from the north of Spain, via the Cantabrian Highway (A-8), which gives access to Pravia via the AS-16 road. If you come from central Spain, via the AP-66 motorway (with toll) or the N-630 national road.
 
-  - icon : ti-location-arrow # themify icon pack : https://themify.me/themify-icons
+  - icon : ti-home # themify icon pack : https://themify.me/themify-icons
     title : Hotels and Restaurants
-    content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
+    content : Villa de Pravia has many hotels and rural accommodation offers within the same town where the race is held. You can also enjoy the wide and varied gastronomic offer, with typical and homemade asturian food.

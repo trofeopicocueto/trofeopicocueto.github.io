@@ -3,25 +3,25 @@ feature:
   enable : true
   image : images/about/picocuetorelevo.jpg
   image_webp : images/about/picocuetorelevo.webp
-  title : Teams of 3
-  content : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam tempora itaque, autem dolores culpa cum mollitia voluptate nesciunt voluptatibus quasi."
+  title : Equipos de 3 corredores
+  content : "La carrera se disputa por equipos de 3 relevistas que completan un mismo circuito de 6 kilómetros."
   feature_item : 
       # feature item loop
-    - title : Select two runners
-      icon : ti-quote-right # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+    - title : Selecciona tu equipo ganador
+      icon : ti-hand-point-right # themify icon pack : https://themify.me/themify-icons
+      content : Tres relevistas en un recorrido rápido de trail.
       
       # feature item loop
-    - title : Woman or men
-      icon : ti-android # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+    - title : Mujeres y hombres
+      icon : ti-user # themify icon pack : https://themify.me/themify-icons
+      content : Los equipos pueden ser de 3 hombres, 3 mujeres o equipos mixtos.
 
       # feature item loop
-    - title : Wear spikes
+    - title : Prepara tus zapatillas
       icon : ti-stats-up # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+      content : Se trata de un circuito de trail corto, donde es importante el agarre pero también la velocidad.
       
       # feature item loop
-    - title : Enjoy
-      icon : ti-announcement # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+    - title : Disfruta
+      icon : ti-face-smile # themify icon pack : https://themify.me/themify-icons
+      content : Vive la experiencia y disfruta de una carrera por equipos única en España.

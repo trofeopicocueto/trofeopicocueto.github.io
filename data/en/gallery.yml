@@ -4,107 +4,107 @@ portfolio:
   title : Previously on Pico Cueto...
   portfolio_item :
     # gallery item loop
-    - name : Relay blablabla 2021
+    - name : Piloña Deporte relay
       image : images/gallery/relay01.png
-      categories : ["relay"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
+      categories : ["relay", "winners"]
+      content : Picture - JonasPravia
       link : "https://www.flickr.com/photos/140255902@N06/"
       
     # gallery item loop
-    - name : Relay blablabla 2021
-      image : images/gallery/relay02.png
+    - name : Mixed team relay
+      image : images/gallery/relay022.png
       categories : ["relay"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
+      content : Picture - JonasPravia
       link : ""
       
     # gallery item loop
-    - name : Relay blablabla 2021
-      image : images/gallery/relay03.png
+    - name : Club de Atletismo Pravia Relay
+      image : images/gallery/relay033.png
       categories : ["relay"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
+      content : Picture - JonasPravia
       link : "#"
 
     # gallery item loop
-    - name : Relay blablabla 2021
-      image : images/gallery/relay04.png
+    - name : Winner team relay by Marcos Peon
+      image : images/gallery/relay04.jpg
       categories : ["relay", "winners"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
+      content : Picture - JonasPravia
       link : "#"
 
     # gallery item loop
-    - name : Relay blablabla 2021
-      image : images/gallery/relay05.png
-      categories : ["relay", "winners"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
+    - name : Winners of Pico Cueto Trophy 2021. Piloña Deporte Team
+      image : images/gallery/ganador01.jpg
+      categories : ["winners"]
+      content : Picture - JonasPravia
       link : "#"
 
     # gallery item loop
-    - name : Downhill blablabla 2021
+    - name : Winners of Pico Cueto Trophy 2018. Runmarc Team
+      image : images/gallery/ganador02.jpg
+      categories : ["downhill"]
+      content :  Picture - JonasPravia
+      link : "#"
+
+    # gallery item loop
+    - name : Downhill. Alex Montes, first relay  from Piloña Deporte
+      image : images/gallery/ganador03.png
+      categories : ["downhill", "winners"]
+      content : Picture - JonasPravia
+      link : "#"
+
+    # gallery item loop
+    - name : Downhill. Horizonte Team
       image : images/gallery/bajada01.png
       categories : ["downhill"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
+      content : Picture - JonasPravia
       link : "#"
 
     # gallery item loop
-    - name : Downhill blablabla 2021
+    - name : Downhill. Guille from Club Atletimo Pravia
       image : images/gallery/bajada02.png
       categories : ["downhill"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
+      content : Picture - JonasPravia
       link : "#"
 
     # gallery item loop
-    - name : Alex Montes, first relay Piloña 2021
-      image : images/gallery/bajada03.png
-      categories : ["downhill", "winners"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
+    - name : Johana, from Pravia. Downhill
+      image : images/gallery/bajada03.jpg
+      categories : ["downhill"]
+      content : Picture - JonasPravia
       link : "#"
 
     # gallery item loop
-    - name : Pravia Start 2021
-      image : images/gallery/meta01.png
-      categories : ["public"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
-      link : "#"
-
-    # gallery item loop
-    - name : Pravia Start 2021
-      image : images/gallery/meta02.png
-      categories : ["public"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
-      link : "#"
-
-    # gallery item loop
-    - name : Winners Women 2021
-      image : images/gallery/podio01.png
-      categories : ["winners"]
-      content : Names of the winners.....
-      link : "#"
-
-    # gallery item loop
-    - name : Winners Men 2021
-      image : images/gallery/podio02.png
-      categories : ["winners"]
-      content : Names of the winners.....
-      link : "#"
-
-    # gallery item loop
-    - name : Public 2021
+    - name : Pepe, José and Guille from Club Atletismo Pravia Team
       image : images/gallery/publico01.png
-      categories : ["public"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
+      categories : ["finish line"]
+      content : Picture - JonasPravia
       link : "#"
 
     # gallery item loop
-    - name : Public 2021
+    - name : Nacho, race's manager
       image : images/gallery/publico02.png
-      categories : ["public"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
+      categories : ["finish line"]
+      content : Picture - JonasPravia
       link : "#"
 
     # gallery item loop
-    - name : Public 2021
-      image : images/gallery/publico03.png
-      categories : ["public"]
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
+    - name : Team's hug
+      image : images/gallery/publico03.jpg
+      categories : ["finish line"]
+      content : Picture - JonasPravia
+      link : "#"
+
+    # gallery item loop
+    - name : Start line
+      image : images/gallery/publico04.png
+      categories : ["finish line"]
+      content : Picture - JonasPravia
+      link : "#"
+
+    # gallery item loop
+    - name : Enjoying competition. Enjoying with friends
+      image : images/gallery/publico06.jpg
+      categories : ["winners", "finish line"]
+      content : Picture - JonasPravia
       link : "#"
 

@@ -1,34 +1,34 @@
 ################################# Service #################################
 service:
   enable : true
-  title : The Race
+  title : La carrera
   service_item :
     # service item loop
-    - name : Dates
-      icon : ti-notepad # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+    - name : Fecha y lugar
+      icon : ti-calendar # themify icon pack : https://themify.me/themify-icons
+      content : La carrera organizada por el Club de atletismo Pravia se celebrará en Pravia, Asturias, el día __23 de octubre de 2022__ a las 11:00 horas. Los dorsales se entregarán el mismo día en la zona de salida desde las 09:30 horas. Consulta las [bases](./blog/rules/). 
+      
+    
+    - name : La carrera
+      icon : ti-direction-alt # themify icon pack : https://themify.me/themify-icons
+      content : El Trofeo Pico Cueto es una carrera por relevos de montaña donde participan [equipos de 3 corredores](#feature) que completarán un mismo circuito de unos 6 kilómetros cada uno. Consulta toda la información sobre [el perfil](#profile).
       
     # service item loop
-    - name : Prizes
-      icon : ti-medall # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
-      
-    # service item loop
-    - name : Course
-      icon : ti-direction # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+    - name : El relevo
+      icon : ti-hand-drag # themify icon pack : https://themify.me/themify-icons
+      content : Esta es la parte más emocionante de la competición. Se debe dar el relevo al siguiente corredor del equipo mediante una palmada en la zona especialmente habilitada para ello, en la que siempre se encuentra el público animando.
+
       
     # service item loop
     - name : Runner Zone
-      icon : ti-info # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+      icon : ti-spray # themify icon pack : https://themify.me/themify-icons
+      content : La recogida de dorsales, salida, zona de relevos y meta se encuentran en el mismo punto, en el Parque Sabino Moutas de Pravia. Contamos con servicio de duchas en el polideportivo local de la Villa. Habrá habituallamientos tanto en la mitad del circuito como en la zona de meta. 
       
     # service item loop
-    - name : Categories
+    - name : Premios
       icon : ti-cup # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
-      
+      content : Premios en metálico para los 5 primeros equipos masculinos y femeninos. Galardón muy especial para el corredor más rápido en el sector de subida que habrá delimitado.  Los corredores locales tabién tendrán su recompensa, con premios en metálico. Consulta las [bases completas](./blog/rules/).      
     # service item loop
-    - name : Lunch at Burgi
-      icon : ti-pulse # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+    - name : Historia
+      icon : ti-bookmark-alt # themify icon pack : https://themify.me/themify-icons
+      content : El Club de atletismo Pravia y por iniciativa de Nacho, quiso organizar una carrera única en España, en un paisaje extraordinario y que conservase la esencia de su competición de referencia, el Trofeo Vanoni, una prueba con más de 60 años de historia que se celebra en Morbegno, Italia. 

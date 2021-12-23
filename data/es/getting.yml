@@ -1,16 +1,16 @@
 ############################# About ###################################
 getting:
   enable : true
-  title : Getting There
+  title : Cómo llegar
   getting_item :
+  - icon : ti-rocket # themify icon pack : https://themify.me/themify-icons
+    title : Por aire
+    content : Pravia se encuentra a sólo 10 minutos (13 kilómetros) del aeropuerto de Asturias. Existen vuelos directos  a Asturias desde Madrid, Barcelona, Sevilla, Valencia, Alicante, Murcia, Málaga, Canarias y Baleares.
+
   - icon : ti-car # themify icon pack : https://themify.me/themify-icons
-    title : By Air
-    content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
+    title : Por carretera
+    content : Si vienes desde el norte de España mediante la La Autovía del Cantábrico (A-8),  que da acceso a Pravia por la carretera AS-16. Si vienes desde la meseta, mediante la autopista AP-66 (con peaje) o por la carretera nacional N-630.
 
-  - icon : ti-cup # themify icon pack : https://themify.me/themify-icons
-    title : By Road
-    content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
-
-  - icon : ti-location-arrow # themify icon pack : https://themify.me/themify-icons
-    title : Hotels and Restaurants
-    content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
+  - icon : ti-home # themify icon pack : https://themify.me/themify-icons
+    title : Hoteles y restaurantes
+    content : La Villa de Pravia cuenta con numerosas ofertas de hoteles y alojamientos rurales dentro del mismo núcleo urbano donde se celebra la prueba. Podrás disfrutar también de la ámplia y variada oferta gastronómica.
