@@ -1,5 +1,5 @@
 ################################# Default configuration ###################
-baseURL = "https://trofeopicocueto.github.io"
+baseURL = "https://trofeopicocueto.com"
 title = "Trofeo Pico Cueto 2022"
 theme = "pico-cueto-theme"
 # post pagination
