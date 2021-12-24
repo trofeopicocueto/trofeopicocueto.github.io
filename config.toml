@@ -169,11 +169,12 @@ link = "https://www.instagram.com/trofeopicocueto/"
 icon = "ti-youtube" # themify icon pack : https://themify.me/themify-icons
 link = "https://www.youtube.com/channel/UCjmCUfdFbrYZA5OI4e47pxg"
 
+defaultContentLanguage: es
 
 ################################ English Language ########################
 [Languages.en]
 languageName = "EN"
-languageCode = "en-us"
+languageCode = "en"
 contentDir = "content/english"
 weight = 2
 home = "Home"
@@ -182,7 +183,7 @@ copyright = "Copyright &copy; 2021 Designed by [Cristina Areces](https://areces.
 ################################ Spanish Language ########################
 [Languages.es]
 languageName = "ES"
-languageCode = "es-es"
+languageCode = "es"
 contentDir = "content/spanish"
 weight = 1
 home = "Portada"
