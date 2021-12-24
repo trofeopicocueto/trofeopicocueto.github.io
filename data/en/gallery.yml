@@ -5,21 +5,21 @@ portfolio:
   portfolio_item :
     # gallery item loop
     - name : Piloña Deporte relay
-      image : images/gallery/relay01.png
+      image : images/gallery/relay01.jpg
       categories : ["relay", "winners"]
       content : Picture - JonasPravia
       link : "https://www.flickr.com/photos/140255902@N06/"
       
     # gallery item loop
     - name : Mixed team relay
-      image : images/gallery/relay022.png
+      image : images/gallery/relay022.jpg
       categories : ["relay"]
       content : Picture - JonasPravia
       link : ""
       
     # gallery item loop
     - name : Club de Atletismo Pravia Relay
-      image : images/gallery/relay033.png
+      image : images/gallery/relay033.jpg
       categories : ["relay"]
       content : Picture - JonasPravia
       link : "#"
@@ -47,21 +47,21 @@ portfolio:
 
     # gallery item loop
     - name : Downhill. Alex Montes, first relay  from Piloña Deporte
-      image : images/gallery/ganador03.png
+      image : images/gallery/ganador03.jpg
       categories : ["downhill", "winners"]
       content : Picture - JonasPravia
       link : "#"
 
     # gallery item loop
     - name : Downhill. Horizonte Team
-      image : images/gallery/bajada01.png
+      image : images/gallery/bajada01.jpg
       categories : ["downhill"]
       content : Picture - JonasPravia
       link : "#"
 
     # gallery item loop
     - name : Downhill. Guille from Club Atletimo Pravia
-      image : images/gallery/bajada02.png
+      image : images/gallery/bajada02.jpg
       categories : ["downhill"]
       content : Picture - JonasPravia
       link : "#"
@@ -75,14 +75,14 @@ portfolio:
 
     # gallery item loop
     - name : Pepe, José and Guille from Club Atletismo Pravia Team
-      image : images/gallery/publico01.png
+      image : images/gallery/publico01.jpg
       categories : ["finish line"]
       content : Picture - JonasPravia
       link : "#"
 
     # gallery item loop
     - name : Nacho, race's manager
-      image : images/gallery/publico02.png
+      image : images/gallery/publico02.jpg
       categories : ["finish line"]
       content : Picture - JonasPravia
       link : "#"
@@ -96,7 +96,7 @@ portfolio:
 
     # gallery item loop
     - name : Start line
-      image : images/gallery/publico04.png
+      image : images/gallery/publico04.jpg
       categories : ["finish line"]
       content : Picture - JonasPravia
       link : "#"

@@ -1,8 +1,7 @@
 ############################### Banner ################################
 banner:
   enable : true
-  bg_image_webp : "images/portadaprueba2.png"
-  bg_image : "images/backgrounds/portadaprueba2.png"
+  bg_image : "images/backgrounds/portadaprueba2.jpg"
   icon : "" # themify icon pack : https://themify.me/themify-icons
   title : "Trofeo Pico Cueto 2022"
   content : "Thrilling relay trail-cross in the Northern forests of Spain.

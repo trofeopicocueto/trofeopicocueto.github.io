@@ -5,21 +5,21 @@ portfolio:
   portfolio_item :
     # gallery item loop
     - name : Relevo del Piloña Deporte
-      image : images/gallery/relay01.png
+      image : images/gallery/relay01.jpg
       categories : ["relevo", "ganadores"]
       content : Foto JonasPravia
       link : "https://www.flickr.com/photos/140255902@N06/"
       
     # gallery item loop
     - name : Relevo mixto edición 2021
-      image : images/gallery/relay022.png
+      image : images/gallery/relay022.jpg
       categories : ["relevo"]
       content : Foto JonasPravia
       link : ""
       
     # gallery item loop
     - name : Relevo del Club Atletismo Pravia
-      image : images/gallery/relay033.png
+      image : images/gallery/relay033.jpg
       categories : ["relevo"]
       content : Foto JonasPravia
       link : "#"
@@ -47,21 +47,21 @@ portfolio:
 
     # gallery item loop
     - name : Bajada del cueto del Piloña Deporte
-      image : images/gallery/ganador03.png
+      image : images/gallery/ganador03.jpg
       categories : ["ganadores", "bajada"]
       content : Foto JonasPravia
       link : "#"
 
     # gallery item loop
     - name : Bajada del Cueto. Equipo Horizonte
-      image : images/gallery/bajada01.png
+      image : images/gallery/bajada01.jpg
       categories : ["bajada"]
       content : Foto JonasPravia
       link : "#"
 
     # gallery item loop
     - name : Bajada de Guille, Club Atletismo Pravia
-      image : images/gallery/bajada02.png
+      image : images/gallery/bajada02.jpg
       categories : ["bajada"]
       content : Foto JonasPravia
       link : "#"
@@ -75,14 +75,14 @@ portfolio:
 
     # gallery item loop
     - name : Equipo de Pepe, José y Guille del Club atletismo Pravia
-      image : images/gallery/publico01.png
+      image : images/gallery/publico01.jpg
       categories : ["meta"]
       content : Foto JonasPravia
       link : "#"
 
     # gallery item loop
     - name : Nacho, el director de la carrera
-      image : images/gallery/publico02.png
+      image : images/gallery/publico02.jpg
       categories : ["meta"]
       content : Foto JonasPravia
       link : "#"
@@ -96,7 +96,7 @@ portfolio:
 
     # gallery item loop
     - name : Salida de la carrera
-      image : images/gallery/publico04.png
+      image : images/gallery/publico04.jpg
       categories : ["meta"]
       content : Foto JonasPravia
       link : "#"
