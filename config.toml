@@ -10,6 +10,7 @@ summaryLength = "15"
 disqusShortname = "" # get your shortname form here : https://disqus.com
 # disable language
 disableLanguages = []
+defaultContentLanguage = "es"
 
 ############################# Plugins ##########################
 # css plugins
@@ -169,14 +170,12 @@ link = "https://www.instagram.com/trofeopicocueto/"
 icon = "ti-youtube" # themify icon pack : https://themify.me/themify-icons
 link = "https://www.youtube.com/channel/UCjmCUfdFbrYZA5OI4e47pxg"
 
-defaultContentLanguage= "es"
-
 ################################ English Language ########################
 [Languages.en]
 languageName = "EN"
 languageCode = "en"
 contentDir = "content/english"
-weight = 2
+weight = 1
 home = "Home"
 copyright = "Copyright &copy; 2021 Designed by [Cristina Areces](https://areces.eu), based on the [Meghna Theme](https://github.com/themefisher/meghna-hugo)"
 
@@ -185,6 +184,6 @@ copyright = "Copyright &copy; 2021 Designed by [Cristina Areces](https://areces.
 languageName = "ES"
 languageCode = "es"
 contentDir = "content/spanish"
-weight = 1
+weight = 2
 home = "Portada"
 copyright = "Copyright &copy; 2021 Diseñado por [Cristina Areces](https://areces.eu), basado en [Meghna](https://github.com/themefisher/meghna-hugo)"
