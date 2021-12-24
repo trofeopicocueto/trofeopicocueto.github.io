@@ -169,7 +169,7 @@ link = "https://www.instagram.com/trofeopicocueto/"
 icon = "ti-youtube" # themify icon pack : https://themify.me/themify-icons
 link = "https://www.youtube.com/channel/UCjmCUfdFbrYZA5OI4e47pxg"
 
-defaultContentLanguage: es
+defaultContentLanguage= "es"
 
 ################################ English Language ########################
 [Languages.en]
