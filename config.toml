@@ -177,7 +177,7 @@ languageCode = "en"
 contentDir = "content/english"
 weight = 1
 home = "Home"
-copyright = "Copyright &copy; 2021 Designed by [Cristina Areces](https://pbest.eu), based on the [Meghna Theme](https://github.com/themefisher/meghna-hugo)"
+copyright = "Copyright &copy; 2022 Designed by [Cristina Areces](https://pbest.eu), based on the [Meghna Theme](https://github.com/themefisher/meghna-hugo)"
 
 ################################ Spanish Language ########################
 [Languages.es]
@@ -186,4 +186,4 @@ languageCode = "es"
 contentDir = "content/spanish"
 weight = 2
 home = "Portada"
-copyright = "Copyright &copy; 2021 Diseñado por [Cristina Areces](https://pbest.eu), basado en [Meghna](https://github.com/themefisher/meghna-hugo)"
+copyright = "Copyright &copy; 2022 Diseñado por [Cristina Areces](https://pbest.eu), basado en [Meghna](https://github.com/themefisher/meghna-hugo)"
