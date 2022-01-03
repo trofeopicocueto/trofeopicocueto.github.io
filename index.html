@@ -13,6 +13,8 @@
 <link rel=stylesheet href="https://fonts.googleapis.com/css?family=Anaheim%7cQuattrocento+Sans:400,700&display=swap">
 <link rel=stylesheet href=https://trofeopicocueto.com/css/style.min.css media=screen>
 <link rel=stylesheet href=https://trofeopicocueto.com/css/custom.min.css media=screen>
+<link rel=stylesheet href=https://trofeopicocueto.com/openlayers/ol.css type=text/css>
+<script src=https://trofeopicocueto.com/openlayers/ol.js></script>
 <link rel="shortcut icon" href=https://trofeopicocueto.com/images/favicon.png type=image/x-icon>
 <link rel=icon href=https://trofeopicocueto.com/images/favicon.png type=image/x-icon>
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-HQN6HRMPYB"></script>
@@ -620,8 +622,9 @@ Compañerismo
 </div>
 </div>
 </section>
-<div class=google-map>
-<div id=map data-latitude=43.49002454627791 data-longitude=-6.11355836350233 data-marker=https://trofeopicocueto.com/images/marker.png data-marker-name="Trofeo Pico Cueto 2022"></div>
+<div class=osm-map>
+<div id=map class=map></div>
+<script>var baseLayer=new ol.layer.Tile({source:new ol.source.XYZ({url:'https://tiles.stadiamaps.com/tiles/alidade_smooth_dark/{z}/{x}/{y}.png'})}),markers=new ol.layer.Vector({source:new ol.source.Vector,style:new ol.style.Style({image:new ol.style.Icon({anchor:[.5,1],scale:.5,src:"https://trofeopicocueto.com/images/marker.png"})})}),marker=new ol.Feature(new ol.geom.Point(ol.proj.fromLonLat(["-6.11355836350233","43.49002454627791"]))),map;markers.getSource().addFeature(marker),map=new ol.Map({layers:[baseLayer,markers],target:'map',controls:ol.control.defaults({attributionOptions:{collapsible:!1}}),view:new ol.View({center:ol.proj.fromLonLat(["-6.11355836350233","43.49002454627791"]),zoom:9})})</script>
 </div>
 </div>
 <footer id=footer class=section-bg>
@@ -646,14 +649,12 @@ Compañerismo
 </div>
 </div>
 </footer>
-<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBpAeYB-TDhQ4m9TRoN__5Fc93LI0jaIiI"></script>
 <script src=https://trofeopicocueto.com/plugins/jquery/jquery.min.js></script>
 <script src=https://trofeopicocueto.com/plugins/bootstrap/bootstrap.min.js></script>
 <script src=https://trofeopicocueto.com/plugins/slick/slick.min.js></script>
 <script src=https://trofeopicocueto.com/plugins/shuffle/shuffle.min.js></script>
 <script src=https://trofeopicocueto.com/plugins/magnific-popup/jquery.magnific-popup.min.js></script>
 <script src=https://trofeopicocueto.com/plugins/lazy-load/lozad.min.js></script>
-<script src=https://trofeopicocueto.com/plugins/google-map/map.js></script>
 <script src=https://trofeopicocueto.com/js/script.min.b98b8dcfa3dc53b74ecf3cf8724a1f75b4d217da25463ff3d6a28fc4a09e965bf9818dfce85452f5fb478bce779ee8cc.js integrity=sha384-uYuNz6PcU7dOzzz4ckofdbTSF9olRj/z1qKPxKCellv5gY386FRS9ftHi853nujM></script>
 </body>
 </html>
