@@ -1,11 +1,41 @@
 {{ if site.Params.map.enable }}
 {{ with site.Params.map }}
-{{"<!-- Google Map -->" | safeHTML}}
-<div class="google-map">
-	<div id="map" data-latitude="{{ .map_latitude }}"
-	data-longitude="{{ .map_longitude }}"
-	data-marker="{{ .map_marker | absURL }}"
-	data-marker-name="{{ site.Title }}"></div>
+{{"<!-- Openlayer Map -->" | safeHTML}}
+<div class="osm-map">
+    <div id="map" class="map"></div>
+    <script>
+      var baseLayer= new ol.layer.Tile({
+        source: new ol.source.XYZ({
+          url: 'https://tiles.stadiamaps.com/tiles/alidade_smooth_dark/{z}/{x}/{y}.png'
+        }) 
+      });
+	  var markers = new ol.layer.Vector({
+  		source: new ol.source.Vector(),
+  		style: new ol.style.Style({
+    	  image: new ol.style.Icon({
+      		anchor: [0.5, 1],
+    			scale: 0.5,
+      		src: "{{ .map_marker | absURL }}"
+    		})
+  		  })
+	  });
+      var marker = new ol.Feature(new ol.geom.Point(ol.proj.fromLonLat([{{.map_longitude}},{{.map_latitude}}])));
+      markers.getSource().addFeature(marker);	
+	  var map = new ol.Map({ 
+        layers: [baseLayer,markers], 
+        target: 'map',
+        controls: ol.control.defaults({ 
+          attributionOptions: ({
+            collapsible: false
+          })
+        }),
+        view: new ol.View({ 
+          center: ol.proj.fromLonLat([{{.map_longitude}},{{.map_latitude}}]), 
+          zoom: 9
+        })
+      });
+    </script>
 </div>
+
 {{ end }}
 {{ end }}

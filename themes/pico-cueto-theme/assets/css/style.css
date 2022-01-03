@@ -727,7 +727,7 @@ a:hover {
   color: #ddd !important;
 }
 
-.google-map #map-canvas {
+.osm-map #map-canvas {
   height: 400px;
 }
 

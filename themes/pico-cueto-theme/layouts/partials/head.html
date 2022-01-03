@@ -20,7 +20,13 @@
 
 	{{"<!-- Custom stylesheet - for your changes -->" |safeHTML}}
 	{{ $custom := resources.Get "css/custom.css" | minify }}
-  <link rel="stylesheet" href="{{ $custom.Permalink }}" media="screen">
+    <link rel="stylesheet" href="{{ $custom.Permalink }}" media="screen">
+
+	{{ "<!-- Openlayers -->" | safeHTML }}
+	{{ if site.Params.map.enable }}
+		<link rel="stylesheet" href="{{ `openlayers/ol.css` | absURL }}" type="text/css">
+    	<script src="{{ `openlayers/ol.js` | absURL }}"></script>
+	{{ end }}
 
 	{{ "<!--Favicon-->" | safeHTML }}
 	<link rel="shortcut icon" href="{{ `images/favicon.png` | absURL }}" type="image/x-icon">
