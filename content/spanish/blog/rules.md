@@ -28,8 +28,8 @@ El "Trofeo Pico Cueto" consiste en una carrera de RELEVOS de montaña de TRES co
 
 | | 1º | 2º | 3º | 4º | 5º | 
 | --| -------- | -------- | -------- | -------- | -------- |    
-| MASCULINO | 300 €| 150 € | 90 € | 50 € | 30 € | 
-| FEMENINO | 300 € | 150 € | 90 € | 50 € | 30 € | 
+| MASCULINO | 120 €| 60 € | 40 € | inscripción 2023 | inscripción 2023 | 
+| FEMENINO | 120 € | 60 € | 40 € | inscripción 2023 | inscripción 2023 | 
 
 .
 
@@ -37,8 +37,8 @@ El "Trofeo Pico Cueto" consiste en una carrera de RELEVOS de montaña de TRES co
 
 | | 1ª | 2ª| 3ª | 
 | --| -------- | -------- | -------- |  
-| MASCULINO | 100 € | 50 € | 30 € |
-| FEMENINO | 100 € | 50 € | 30 € | 
+| MASCULINO | inscripción 2023 | inscripción 2023 | inscripción 2023 |
+| FEMENINO | inscripción 2023 | inscripción 2023 | inscripción 2023 | 
 
 .
 
