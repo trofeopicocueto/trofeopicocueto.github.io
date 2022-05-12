@@ -27,7 +27,7 @@ service:
     # service item loop
     - name : Premios
       icon : ti-cup # themify icon pack : https://themify.me/themify-icons
-      content : Premios en metálico para los 5 primeros equipos masculinos y femeninos. Galardón muy especial para el corredor más rápido en el sector de subida que habrá delimitado.  Los corredores locales tabién tendrán su recompensa, con premios en metálico. Consulta las [bases completas](./blog/rules/).      
+      content : Premios en metálico para los 3 primeros equipos masculinos y femeninos. Galardón muy especial para el corredor más rápido en los sectores de subida y bajada que habrá delimitados.  Los corredores locales tabién tendrán su recompensa. Consulta las [bases completas](./blog/rules/).      
     # service item loop
     - name : Historia
       icon : ti-bookmark-alt # themify icon pack : https://themify.me/themify-icons
