@@ -25,8 +25,8 @@ The prices are:
 
 | | 1st | 2nd | 3rd | 4th | 5th | 
 | --| -------- | -------- | -------- | -------- | -------- |    
-| MEN | 300 €| 150 € | 90 € | 50 € | 30 € | 
-| WOMEN | 300 € | 150 € | 90 € | 50 € | 30 € | 
+| MEN | 120 €| 60 € | 40 € | 2023 registration | 2023 registration | 
+| WOMEN | 120 € | 60 € | 40 € | 2023 registration | 2023 registration | 
 
 .
 
@@ -36,8 +36,8 @@ The prices are:
 	
 | | 1st | 2nd | 3th | 
 | --| -------- | -------- | -------- |  
-| MEN | 100 € | 50 € | 30 € |
-| WOMEN | 100 € | 50 € | 30 € | 
+| MEN | 2023 registration | 2023 registration | 2023 registration |
+| WOMEN | 2023 registration | 2023 registration | 2023 registration | 
 
 .
 
