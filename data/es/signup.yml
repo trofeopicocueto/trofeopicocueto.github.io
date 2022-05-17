@@ -4,9 +4,8 @@ cta:
   bg_image : "images/backgrounds/bg-picocueto.jpg"
   bg_image_webp : "images/backgrounds/bg-picocueto.webp"
   title : "Inscríbete"
-  content : "Las inscripciones ya están abiertas
-  ¡Busca ya a tu equipo ganador para la cuarta edición del trofeo Pico Cueto 2022!"
+  content : "Las inscripciones ya están abiertas ¡Busca ya a tu equipo ganador para la cuarta edición del trofeo Pico Cueto 2022!"
   button:
-    enable : false
-    label : "Inscripción aquí (proximamente)"
+    enable : true
+    label : "Inscripción aquí"
     link : "#contact"
