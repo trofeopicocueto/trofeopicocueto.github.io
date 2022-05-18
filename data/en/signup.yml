@@ -6,6 +6,6 @@ cta:
   title : "Sign up"
   content : "Registration for the race will open soon"
   button:
-    enable : false
-    label : "Register your team (coming soon)"
-    link : "#contact"
+    enable : true
+    label : "Register your team now"
+    link : "https://www.321go.es/Carrera/Detail/134-trofeopicocueto2022"
