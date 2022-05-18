@@ -4,7 +4,7 @@ cta:
   bg_image : "images/backgrounds/bg-picocueto.jpg"
   bg_image_webp : "images/backgrounds/bg-picocueto.webp"
   title : "Sign up"
-  content : "Registration for the race will open soon"
+  content : "Registration for the race is open"
   button:
     enable : true
     label : "Register your team now"
