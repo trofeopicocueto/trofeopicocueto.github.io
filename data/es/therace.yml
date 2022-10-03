@@ -22,7 +22,7 @@ service:
     # service item loop
     - name : Runner Zone
       icon : ti-spray # themify icon pack : https://themify.me/themify-icons
-      content : La recogida de dorsales, salida, zona de relevos y meta se encuentran en el mismo punto, en el Parque Sabino Moutas de Pravia. Contamos con servicio de duchas en el polideportivo local de la Villa. Habrá habituallamientos tanto en la mitad del circuito como en la zona de meta. 
+      content : La recogida de dorsales, salida, zona de relevos y meta se encuentran en el mismo punto, en el Parque Sabino Moutas de Pravia. Contamos con servicio de duchas en el polideportivo local de la Villa. Habrá avituallamientos tanto en la mitad del circuito como en la zona de meta. 
       
     # service item loop
     - name : Premios
