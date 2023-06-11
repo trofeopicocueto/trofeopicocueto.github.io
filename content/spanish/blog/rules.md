@@ -1,5 +1,5 @@
 ---
-title: "Reglamento Provisional del Trofeo Pico Cueto 2022"
+title: "Reglamento Provisional del Trofeo Pico Cueto 2023"
 date: 2021-12-23T14:51:12+06:00
 author: Trofeo Pico Cueto
 image_webp: images/backgrounds/bg-horizontal-lacing-shoes.webp
