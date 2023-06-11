@@ -41,7 +41,7 @@ El "Trofeo Pico Cueto" consiste en una carrera de RELEVOS de montaña de TRES co
 
 ### Campeonato de Asturias FEMPA:
 Los tres primeros equipos clasificados absolutos en categoría masculina, femenina y mixta federados en la FEMPA optan al campeonato de Asturias según reglamento del calendario de carreras FEMPA.
-image: images/gallery/fempa-logo.jpg
+image: static/images/gallery/fempa-logo.jpg
 
 ### Mejor tiempo segmento “subida” 
 
