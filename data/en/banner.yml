@@ -7,6 +7,6 @@ banner:
   content : "Thrilling relay trail-cross in the Northern forests of Spain.
   Sunday 23 Oct 2022 in Pravia, Asturias "
   button:
-    enable : true
-    label : "Sign Up!"
+    enable : false
+    label : "We sill open registrations soon"
     link : "https://www.321go.es/Carrera/Detail/134-trofeopicocueto2022"
