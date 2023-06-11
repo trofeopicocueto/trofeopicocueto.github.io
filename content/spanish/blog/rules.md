@@ -32,7 +32,6 @@ El "Trofeo Pico Cueto" consiste en una carrera de RELEVOS de montaña de TRES co
 | FEMENINO | 120 € | 60 € | 40 € | inscripción 2023 | inscripción 2023 | 
 | MIXTO | 120 € | 60 € | 40 € | 
 
-
 ### Por clasificación local:
 
 | | 1ª | 2ª| 3ª | 
@@ -40,6 +39,7 @@ El "Trofeo Pico Cueto" consiste en una carrera de RELEVOS de montaña de TRES co
 | MASCULINO | inscripción 2023 | inscripción 2023 | inscripción 2023 |
 | FEMENINO | inscripción 2023 | inscripción 2023 | inscripción 2023 | 
 
+### Campeonato de Asturias FEMPA:
 Los tres primeros equipos clasificados absolutos enb categoría masculina, femenina y mixtafederados en la FEMPA optan al campeonato de Asturiassegún reglamento del calendario de carreras FEMPA.
 
 ### Mejor tiempo segmento “subida” 
