@@ -4,7 +4,7 @@ cta:
   bg_image : "images/backgrounds/bg-picocueto.jpg"
   bg_image_webp : "images/backgrounds/bg-picocueto.webp"
   title : "Inscríbete"
-  content : "Las inscripciones se abrirán próximamente ¡Busca ya a tu equipo ganador para la cuarta edición del trofeo Pico Cueto 2023!"
+  content : "Las inscripciones se abrirán próximamente ¡Busca ya a tu equipo ganador para la quinta edición del trofeo Pico Cueto 2023!"
   button:
     enable : false
     label : "Inscripción aquí"
