@@ -12,7 +12,7 @@ description : "Atleta atándose los cordones"
 
 El "Trofeo Pico Cueto" consiste en una carrera de RELEVOS de montaña de TRES corredores/as en un CIRCUITO de unos 6. kilómetros con 248 m diferencia de altura entre la salida y la llegada, el CIRCUITO está en ascenso y descenso con salida y llegada en el mismo punto y debe hacerse una vez por atleta. La pista tiene 2 km de asfalto y para los restantes 5 km una mezcla de caminos y caminos de tierra con algunos tramos cortos de asfalto.
 
-* La fecha de celebración de la Prueba será 24 de octubre 2021, en Pravia organizada por el Club de Atletismo Pravia. 
+* La fecha de celebración de la Prueba será 22 de octubre 2023, en Pravia organizada por el Club de Atletismo Pravia. 
 
 * La hora de partida de los primeros Relevistas se dará a las 11:00h. en categoría Femenino/Masculino, el cambio entre los corredores se realizará dentro del espacio delimitado por el jurado.
 
@@ -30,8 +30,8 @@ El "Trofeo Pico Cueto" consiste en una carrera de RELEVOS de montaña de TRES co
 | --| -------- | -------- | -------- | -------- | -------- |    
 | MASCULINO | 120 €| 60 € | 40 € | inscripción 2023 | inscripción 2023 | 
 | FEMENINO | 120 € | 60 € | 40 € | inscripción 2023 | inscripción 2023 | 
+| MIXTO | 120 € | 60 € | 40 € | 
 
-.
 
 ### Por clasificación local:
 
@@ -40,7 +40,7 @@ El "Trofeo Pico Cueto" consiste en una carrera de RELEVOS de montaña de TRES co
 | MASCULINO | inscripción 2023 | inscripción 2023 | inscripción 2023 |
 | FEMENINO | inscripción 2023 | inscripción 2023 | inscripción 2023 | 
 
-.
+Los tres primeros equipos clasificados absolutos enb categoría masculina, femenina y mixtafederados en la FEMPA optan al campeonato de Asturiassegún reglamento del calendario de carreras FEMPA.
 
 ### Mejor tiempo segmento “subida” 
 
