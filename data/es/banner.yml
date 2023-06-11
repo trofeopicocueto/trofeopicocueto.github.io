@@ -6,6 +6,6 @@ banner:
   title : "Trofeo Pico Cueto"
   content : "Pravia, 22 de octubre de 2023. Cross trail por relevos"
   button:
-    enable : false
+    enable : true
     label : "Próximamente abriremos inscripciones" 
-    link : "https://www.321go.es/Carrera/Detail/134-trofeopicocueto2022"
+    link : "https://trofeopicocueto.com"
