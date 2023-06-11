@@ -29,6 +29,7 @@ service:
       icon : ti-cup # themify icon pack : https://themify.me/themify-icons
       content : Premios en metálico para los 3 primeros equipos masculinos, femeninos y mixtos. 3 primeros equipos federados FEMPA masculino, femenino y mixto optan al campeonato de asturias según reglamento calendario carreras fempa. Galardón para corredor más rápido.
     . Consulta las [bases completas](./blog/rules/).      
+    
     # service item loop
     - name : Historia
       icon : ti-bookmark-alt # themify icon pack : https://themify.me/themify-icons
