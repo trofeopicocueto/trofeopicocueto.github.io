@@ -1,5 +1,5 @@
 ---
-title: "Provisional Regulation of the Pico Cueto Trophy 2022"
+title: "Provisional Regulation of the Pico Cueto Trophy 2023"
 date: 2021-12-23T14:51:12+06:00
 author: Trofeo Pico Cueto
 image_webp: images/backgrounds/bg-horizontal-lacing-shoes.webp
@@ -11,7 +11,7 @@ description : "Lacing shoes"
 
 The Pico Cueto Trophy is a mountain relay race where teams of 3 runners participate. Each runner of the team complete the same circuit of 6 kiolmeters on the northern forest of Spain. The track has 2 km of asphalt and for the remaining 5 km a mixture of roads and dirt roads with some short stretches of asphalt. Each reliever will complete this fast trail circuit of 6 m, with 250 meters of positive elevation gain and starting and finishing at the same point. The route consists of 1.5 fast kilometers of pavement and the remaining 4.5 km run through tracks and mountain trails in the pravian forest.
 
-* The date is be October 23, 2022, in Pravia organized by the Pravia Athletics Club (Club de atletismo Pravia).
+* The date is be October 22, 2023, in Pravia organized by the Pravia Athletics Club (Club de atletismo Pravia).
 * The first relay leg starts st 11:00 am ( Female / Male category). The next runner in the team must be relieved by high-fiving in the area that the jury specially set up fot it. 
 * Entry  will be 30.00 euro/ per team with a maximum number of 450 teams.
 * Numbers are delivered at 09: 30h in the Start / Finish area of the Pico Cueto Relay Trophy.
@@ -27,7 +27,7 @@ The prices are:
 | --| -------- | -------- | -------- | -------- | -------- |    
 | MEN | 120 €| 60 € | 40 € | 2023 registration | 2023 registration | 
 | WOMEN | 120 € | 60 € | 40 € | 2023 registration | 2023 registration | 
-
+| MIXED | 120 € | 60 € | 40 € | 
 .
 
 ###	Local Participants Ranking:
