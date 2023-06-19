@@ -7,7 +7,7 @@ funfacts:
     # counter item loop
     - title : "Runners"
       icon : "ti-reddit" # themify icon pack : https://themify.me/themify-icons
-      count : "550"
+      count : "660"
     
     # counter item loop
     - title : "Equipos"
