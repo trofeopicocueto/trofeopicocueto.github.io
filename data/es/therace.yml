@@ -27,7 +27,7 @@ service:
     # service item loop
     - name : Premios
       icon : ti-cup # themify icon pack : https://themify.me/themify-icons
-      content : Premios en metálico para los 3 primeros equipos masculino y femenino. 3 primeros equipos federados FEMPA masculino y femenino optan al campeonato de asturias según reglamento de carreras fempa. Consulta las [bases completas](./blog/rules/).      
+      content : Premios en metálico para los 3 primeros equipos masculino y femenino. 3 primeros equipos federados FEMPA masculino y femenino optan al campeonato de asturias según reglamento de carreras fempa. Consulta las [bases completas](./blog/rules/) para no prderte nada.      
     
     # service item loop
     - name : Historia
