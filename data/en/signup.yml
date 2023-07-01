@@ -4,8 +4,8 @@ cta:
   bg_image : "images/backgrounds/bg-picocueto.jpg"
   bg_image_webp : "images/backgrounds/bg-picocueto.webp"
   title : "Sign up"
-  content : "Registrations for the race are opened"
+  content : "Sign up here"
   button:
-    enable : false
+    enable : True
     label : "Register your team now"
     link : "https://www.321go.es/Carrera/Detail/226-trofeopicocueto2023"
