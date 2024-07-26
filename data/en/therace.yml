@@ -26,7 +26,7 @@ service:
     # service item loop
     - name : Prizes
       icon : ti-cup # themify icon pack : https://themify.me/themify-icons
-      content : There will be cash prizes for the top 3 men's and women's teams. Special prize for the top 3 men´s and women´s teams with FEMPA license. The local runners will also have their reward. Check the complete [rules (in Spanish)](/pdfs/bases2024.pdf).
+      content : There will be cash prizes for the top teams and for breaking segment records. Check the complete [rules (in Spanish)](/pdfs/bases2024.pdf) for all the details (in Spanish).
       
     # service item loop
     - name : History
