@@ -6,7 +6,7 @@ service:
     # service item loop
     - name : Fecha y lugar
       icon : ti-calendar # themify icon pack : https://themify.me/themify-icons
-      content : La carrera organizada por el Club de atletismo Pravia se celebrará en Pravia, Asturias, el día __22 de octubre de 2023__ a las 11:00 horas. Los dorsales se entregarán el mismo día en la zona de salida desde las 09:00 horas. Consulta las [bases](/pdfs/bases2023.pdf). 
+      content : La carrera organizada por el Club de atletismo Pravia se celebrará en Pravia, Asturias, el día __6 de octubre de 2024__ a las 11:00 horas. Los dorsales se entregarán el mismo día en la zona de salida desde las 09:00 horas. Consulta las [bases](/pdfs/bases2023.pdf). 
       
     
     - name : La carrera
@@ -22,7 +22,7 @@ service:
     # service item loop
     - name : Runner Zone
       icon : ti-spray # themify icon pack : https://themify.me/themify-icons
-      content : La recogida de dorsales, salida, zona de relevos y meta se encuentran en el mismo punto, en el Parque Sabino Moutas de Pravia. Contamos con servicio de duchas en el polideportivo local de la Villa. Habrá habituallamientos tanto en la mitad del circuito como en la zona de meta. 
+      content : La recogida de dorsales, salida, zona de relevos y meta se encuentran en el mismo punto, en el Parque Sabino Moutas de Pravia. Contamos con servicio de duchas en el polideportivo local de la Villa. Habrá avituallamientos tanto en la mitad del circuito como en la zona de meta. 
       
     # service item loop
     - name : Premios

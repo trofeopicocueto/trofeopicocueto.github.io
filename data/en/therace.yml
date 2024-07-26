@@ -6,7 +6,7 @@ service:
     # service item loop
     - name : Dates
       icon : ti-calendar # themify icon pack : https://themify.me/themify-icons
-      content : Sunday 22 Oct 2023 - 11:00 am. The race is organized by the Pravia Athletics Club. 6k relays race starting at 11.00am in Pravia, Asturias, Spain. Competition numbers are given the same day in the start line from 09:00 am. Read all the [rules (in Spanish)](/pdfs/bases2023.pdf).
+      content : Sunday 6 Oct 2024 - 11:00 am. The race is organized by the Pravia Athletics Club. 6k relays race starting at 11.00am in Pravia, Asturias, Spain. Competition numbers are given the same day in the start line from 09:00 am. Read all the [rules (in Spanish)](/pdfs/bases2023.pdf).
       
     # service item loop
     - name : The course
