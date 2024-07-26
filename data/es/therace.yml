@@ -27,7 +27,7 @@ service:
     # service item loop
     - name : Premios
       icon : ti-cup # themify icon pack : https://themify.me/themify-icons
-      content : Premios en metálico para los primeros equipos y por batir récords por segmentos. Consulta las [bases completas](/pdfs/bases2024.pdf) para más detalles.      
+      content : Premios en metálico para los tres primeros equipos masculinos, femeninos y qquipos mixtos. Premios para los equipos locales. Premio por batir el récord individual de la prueba. Consulta las [bases completas](/pdfs/bases2024.pdf) para más detalles.      
     
     # service item loop
     - name : Historia
