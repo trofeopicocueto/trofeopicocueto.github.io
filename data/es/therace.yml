@@ -6,7 +6,7 @@ service:
     # service item loop
     - name : Fecha y lugar
       icon : ti-calendar # themify icon pack : https://themify.me/themify-icons
-      content : La carrera organizada por el Club de atletismo Pravia se celebrará en Pravia, Asturias, el día __23 de octubre de 2022__ a las 11:00 horas. Los dorsales se entregarán el mismo día en la zona de salida desde las 09:30 horas. Consulta las [bases](./blog/rules/). 
+      content : La carrera organizada por el Club de atletismo Pravia se celebrará en Pravia, Asturias, el día __6 de octubre de 2024__ a las 11:00 horas. Los dorsales se entregarán el mismo día en la zona de salida desde las 09:00 horas. Consulta las [bases](/pdfs/bases2023.pdf). 
       
     
     - name : La carrera
@@ -27,7 +27,8 @@ service:
     # service item loop
     - name : Premios
       icon : ti-cup # themify icon pack : https://themify.me/themify-icons
-      content : Premios en metálico para los 5 primeros equipos masculinos y femeninos. Galardón muy especial para el corredor más rápido en el sector de subida que habrá delimitado.  Los corredores locales tabién tendrán su recompensa, con premios en metálico. Consulta las [bases completas](./blog/rules/).      
+      content : Premios en metálico para los 3 primeros equipos masculino y femenino. 3 primeros equipos federados FEMPA masculino y femenino optan al campeonato de asturias según reglamento de carreras fempa. Consulta las [bases completas](/pdfs/bases2023.pdf) para no perderte nada.      
+    
     # service item loop
     - name : Historia
       icon : ti-bookmark-alt # themify icon pack : https://themify.me/themify-icons

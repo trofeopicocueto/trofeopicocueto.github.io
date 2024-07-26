@@ -4,8 +4,8 @@ cta:
   bg_image : "images/backgrounds/bg-picocueto.jpg"
   bg_image_webp : "images/backgrounds/bg-picocueto.webp"
   title : "Inscríbete"
-  content : "¡Busca ya a tu equipo ganador para la cuarta edición del trofeo Pico Cueto 2022! En breve abriremos las inscripciones"
+  content : "Inscríbete ya"
   button:
-    enable : false
-    label : "Inscripción aquí (proximamente)"
-    link : "#contact"
+    enable : true
+    label : "Inscripción"
+    link : "https://www.321go.es/Carrera/Detail/338-trofeopicocueto2024"

@@ -1,6 +1,6 @@
 ################################# Default configuration ###################
 baseURL = "https://trofeopicocueto.com"
-title = "Trofeo Pico Cueto 2022"
+title = "Trofeo Pico Cueto"
 theme = "pico-cueto-theme"
 # post pagination
 paginate = "6"
@@ -182,7 +182,7 @@ languageCode = "en"
 contentDir = "content/english"
 weight = 1
 home = "Home"
-copyright = "Copyright &copy; 2022 Designed by [Cristina Areces](https://pbest.eu), based on the [Meghna Theme](https://github.com/themefisher/meghna-hugo)"
+copyright = "Copyright &copy; 2024 Designed by [Cristina Areces](https://pbest.eu), based on the [Meghna Theme](https://github.com/themefisher/meghna-hugo)"
 
 ################################ Spanish Language ########################
 [Languages.es]
@@ -191,4 +191,4 @@ languageCode = "es"
 contentDir = "content/spanish"
 weight = 2
 home = "Portada"
-copyright = "Copyright &copy; 2022 Diseñado por [Cristina Areces](https://pbest.eu), basado en [Meghna](https://github.com/themefisher/meghna-hugo)"
+copyright = "Copyright &copy; 2024 Diseñado por [Cristina Areces](https://pbest.eu), basado en [Meghna](https://github.com/themefisher/meghna-hugo)"
