@@ -6,7 +6,7 @@ service:
     # service item loop
     - name : Fecha y lugar
       icon : ti-calendar # themify icon pack : https://themify.me/themify-icons
-      content : La carrera organizada por el Club de atletismo Pravia se celebrará en Pravia, Asturias, el día __6 de octubre de 2024__ a las 11:00 horas. Los dorsales se entregarán el mismo día en la zona de salida desde las 09:00 horas. Consulta las [bases](/pdfs/bases2024.pdf). 
+      content : La carrera organizada por el Club de atletismo Pravia se celebrará en Pravia, Asturias, el día __6 de octubre de 2024__ a las 11:15 horas. Los dorsales se entregarán el mismo día en la zona de salida desde las 09:00 horas. Consulta las [bases](/pdfs/bases2024.pdf). 
       
     
     - name : La carrera
