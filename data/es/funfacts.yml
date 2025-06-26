@@ -12,7 +12,7 @@ funfacts:
     # counter item loop
     - title : "Equipos"
       icon : "ti-crown" # themify icon pack : https://themify.me/themify-icons
-      count : "220"
+      count : "300"
     
     # counter item loop
     - title : "Diversión"
