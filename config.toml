@@ -3,7 +3,7 @@ baseURL = "https://trofeopicocueto.com"
 title = "Trofeo Pico Cueto"
 theme = "pico-cueto-theme"
 # post pagination
-paginate = "6"
+# paginate = "6"
 # post excerpt
 summaryLength = "15"
 # disqus short name
