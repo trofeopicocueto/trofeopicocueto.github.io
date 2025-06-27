@@ -6,7 +6,7 @@ service:
     # service item loop
     - name : Fecha y lugar
       icon : ti-calendar # themify icon pack : https://themify.me/themify-icons
-      content : La carrera organizada por el Club de atletismo Pravia se celebrará en Pravia, Asturias, el día __6 de octubre de 2024__ a las 11:15 horas. Los dorsales se entregarán el mismo día en la zona de salida desde las 09:00 horas. Consulta las [bases](/pdfs/bases2024.pdf). 
+      content : La carrera organizada por el Club de atletismo Pravia se celebrará en Pravia, Asturias, el día __5 de octubre de 2025__ a las 11:00 horas. Los dorsales se entregarán el mismo día en la zona de salida desde las 09:30 horas. Consulta las [bases](/pdfs/bases2024.pdf). 
       
     
     - name : La carrera
@@ -27,7 +27,7 @@ service:
     # service item loop
     - name : Premios
       icon : ti-cup # themify icon pack : https://themify.me/themify-icons
-      content : Premios en metálico para los tres primeros equipos masculinos, femeninos y equipos mixtos. Premios para los tres primeros equipos locales. Premio especial por batir el récord individual de la prueba. Consulta las [bases completas](/pdfs/bases2024.pdf) para saber más detalles.      
+      content : Premios en metálico para los tres primeros equipos masculinos y femeninos. Premios especiales para para los tres primeros equipos mixtos locales. Premio especial por batir el récord individual de la prueba. Consulta las [bases completas](/pdfs/bases2024.pdf) para saber más detalles.      
     
     # service item loop
     - name : Historia
